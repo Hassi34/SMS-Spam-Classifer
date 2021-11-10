@@ -1,0 +1,17 @@
+.ipynb_checkpoints
+*.zip
+*.csv
+*.xlsx
+*.xls
+*.joblib
+*.cfg
+*.pickle
+data
+__pycache__
+Include
+Lib
+Scripts
+pyvenv.cfg 
+share
+etc
+SMSSpamCollection
