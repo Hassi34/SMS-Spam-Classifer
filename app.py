@@ -31,3 +31,6 @@ if st.button('Predict'):
         st.header("Spam")
     else:
         st.header("Not Spam")
+st.header('Get the Code')
+link = '[GitHub](https://github.com/Hassi34/SMS-Spam-Classifer.git)'
+st.markdown(link, unsafe_allow_html=True)
