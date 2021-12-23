@@ -32,5 +32,7 @@ if st.button('Predict'):
     else:
         st.header("Not Spam")
 st.header('Get the Code')
-link = '[GitHub](https://github.com/Hassi34/SMS-Spam-Classifer.git)'
-st.markdown(link, unsafe_allow_html=True)
+github_link = '[GitHub](https://github.com/Hassi34/SMS-Spam-Classifer.git)'
+st.markdown(github_link, unsafe_allow_html=True)
+portfolio_link = '[My Portfolio](https://hasnainmehmood.pythonanywhere.com/)'
+st.markdown(portfolio_link, unsafe_allow_html=True)
